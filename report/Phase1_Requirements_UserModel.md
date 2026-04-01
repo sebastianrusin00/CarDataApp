@@ -451,5 +451,3 @@ The Car Data App addresses a real and documented gap in the tooling available to
 Addressing these issues in subsequent design phases — through better input guidance, undo functionality, persistent comparison panels, and improved labeling — would substantially improve usability for both Marek and Karolina's use cases.
 
 ---
-
-*End of Phase 1 Report – Requirements and User Model*
