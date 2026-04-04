@@ -2,7 +2,7 @@
 ## Car Data App – Automotive Data Analysis System
 
 **Course:** Human-Computer Interaction  
-**Author:** Sebastian Rusin  
+**Author:** Sebastian Rusin, Wojciech Armata, Patrycja Starzyk , Tomasz Bieńko
 **Date:** April 2026
 
 ---
